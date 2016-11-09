@@ -6,4 +6,8 @@ public class Solution {
 		//contact.printData();
 		contact.searchData();
 	}
+	
+	public static void test() {
+		System.out.println("Hello");
+	}
 }	
